@@ -2,7 +2,7 @@
   "name": "vscode-gdtf",
   "displayName": "GDTF Editor",
   "description": "View and validate GDTF (General Device Type Format) fixture description files",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "dmxout-hippyau",
   "license": "WTFPL",
   "icon": "icon.png",
@@ -24,9 +24,6 @@
         "viewType": "gdtfViewer.gdtfFile",
         "displayName": "GDTF Editor",
         "selector": [
-          {
-            "filenamePattern": "*.zip"
-          },
           {
             "filenamePattern": "*.gdtf"
           }
