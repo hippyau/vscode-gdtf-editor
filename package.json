@@ -2,9 +2,10 @@
   "name": "vscode-gdtf",
   "displayName": "GDTF Editor",
   "description": "View and validate GDTF (General Device Type Format) fixture description files",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "dmxout-hippyau",
   "license": "WTFPL",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/hippyau/vscode-gdtf-editor"

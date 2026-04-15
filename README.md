@@ -2,6 +2,7 @@
 
 A Visual Studio Code extension for viewing, validating, and editing [GDTF (General Device Type Format)](https://gdtf-share.com/) fixture description files (`.gdtf`).
 
+![GDTF Editor screenshot](img/screenshot.png)
 
 ## Features
 
